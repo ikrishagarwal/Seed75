@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ScottoKeebs_Scotto")(type "KiCad")(uri "${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_Scotto.pretty")(options "")(descr ""))
+)

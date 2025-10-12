@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW65,SW67,SW33,SW11,SW14,SW25,SW69,SW36,SW7,SW82,SW56,SW21,SW3,SW72,SW68,SW13,SW12,SW53,SW49,SW47,SW23,SW70,SW78,SW51,SW27,SW30,SW73,SW61,SW32,SW1,SW55,SW20,SW80,SW83,SW79,SW50,SW52,SW62,SW10,SW5,SW57,SW42,SW45,SW66,SW41,SW34,SW6,SW35,SW39,SW59,SW40,SW64,SW18,SW63,SW9,SW22,SW17,SW16,SW8,SW4,SW19,SW28,SW48,SW38,SW54,SW24,SW81,SW37,SW43,SW26,SW2";"SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch";71;"SW_Push";;;
+2;"SW75,SW76,SW74";"SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch";3;"SW_Push";;;
+3;"SW31,SW44";"SW_Hotswap_Kailh_MX_Plated_1.50u_With_Switch";2;"SW_Push";;;
+4;"SW58,SW60";"SW_Hotswap_Kailh_MX_Plated_2.25u_With_Switch";2;"SW_Push";;;
+5;"SW15";"Encoder_EC11_MX_Combo";1;"RotaryEncoder_Switch";;;
+6;"SW29";"SW_Hotswap_Kailh_MX_Plated_2.00u_With_switch";1;"SW_Push";;;
+7;"SW77";"SW_Hotswap_Kailh_MX_Plated_6.25u_With_Switch";1;"SW_Push";;;
+8;"SW71,SW46";"SW_Hotswap_Kailh_MX_Plated_1.75u_With_Switch";2;"SW_Push";;;
+9;"D55,D66,D44,D28,D37,D82,D10,D41,D15,D38,D34,D72,D4,D26,D78,D39,D80,D27,D83,D11,D50,D14,D77,D68,D21,D8,D71,D40,D42,D47,D2,D23,D35,D17,D67,D64,D74,D79,D65,D9,D63,D18,D52,D29,D81,D16,D5,D1,D25,D53,D59,D19,D30,D6,D45,D57,D22,D48,D24,D49,D31,D62,D36,D3,D46,D51,D32,D12,D33,D20,D56,D60,D76,D54,D7,D75,D70,D13,D58,D73,D61,D69,D43";"D_DO-35_SOD27_P7.62mm_Horizontal";83;"1N4148";;;
+10;"A1";"RaspberryPi_Pico_Common_Unspecified";1;"RaspberryPi_Pico";;;
+11;"J1";"Wago_734-136_1x06_P3.50mm_Vertical";1;"Conn_01x06_Pin";;;
