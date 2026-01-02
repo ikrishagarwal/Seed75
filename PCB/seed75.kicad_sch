@@ -6266,7 +6266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 105.41 30.48 0)
 			(effects
 				(font
@@ -6334,7 +6334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_6.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_6.25u_With_Switch"
 			(at 148.59 132.08 0)
 			(effects
 				(font
@@ -6578,7 +6578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 83.82 71.12 0)
 			(effects
 				(font
@@ -6646,7 +6646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 30.48 0)
 			(effects
 				(font
@@ -6714,7 +6714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 71.12 0)
 			(effects
 				(font
@@ -6782,7 +6782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 71.12 0)
 			(effects
 				(font
@@ -6850,7 +6850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 50.8 0)
 			(effects
 				(font
@@ -7006,7 +7006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 105.41 91.44 0)
 			(effects
 				(font
@@ -7162,7 +7162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 132.08 0)
 			(effects
 				(font
@@ -7494,7 +7494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_2.25u_With_Switch"
 			(at 40.64 111.76 0)
 			(effects
 				(font
@@ -7562,7 +7562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 40.64 50.8 0)
 			(effects
 				(font
@@ -7718,7 +7718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 83.82 91.44 0)
 			(effects
 				(font
@@ -7874,7 +7874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -8294,7 +8294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 342.9 50.8 0)
 			(effects
 				(font
@@ -8362,7 +8362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 299.72 132.08 0)
 			(effects
 				(font
@@ -8430,7 +8430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 50.8 0)
 			(effects
 				(font
@@ -9026,7 +9026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 170.18 91.44 0)
 			(effects
 				(font
@@ -9270,7 +9270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 105.41 50.8 0)
 			(effects
 				(font
@@ -9338,7 +9338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 127 111.76 0)
 			(effects
 				(font
@@ -9582,7 +9582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 191.77 111.76 0)
 			(effects
 				(font
@@ -9650,7 +9650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 342.9 111.76 0)
 			(effects
 				(font
@@ -9718,7 +9718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
 			(at 62.23 132.08 0)
 			(effects
 				(font
@@ -9874,7 +9874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 111.76 0)
 			(effects
 				(font
@@ -9942,7 +9942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 83.82 30.48 0)
 			(effects
 				(font
@@ -10098,7 +10098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 83.82 111.76 0)
 			(effects
 				(font
@@ -10166,7 +10166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_2.25u_With_Switch"
 			(at 299.72 91.44 0)
 			(effects
 				(font
@@ -10234,7 +10234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 170.18 30.48 0)
 			(effects
 				(font
@@ -10390,7 +10390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 213.36 91.44 0)
 			(effects
 				(font
@@ -10634,7 +10634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 50.8 0)
 			(effects
 				(font
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 127 71.12 0)
 			(effects
 				(font
@@ -10770,7 +10770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 148.59 111.76 0)
 			(effects
 				(font
@@ -10926,7 +10926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 62.23 91.44 0)
 			(effects
 				(font
@@ -11076,7 +11076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 342.9 71.12 0)
 			(effects
 				(font
@@ -11232,7 +11232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 321.31 30.48 0)
 			(effects
 				(font
@@ -11388,7 +11388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u_With_switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_2.00u_With_Switch"
 			(at 321.31 50.8 0)
 			(effects
 				(font
@@ -11632,7 +11632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 83.82 50.8 0)
 			(effects
 				(font
@@ -11876,7 +11876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 127 91.44 0)
 			(effects
 				(font
@@ -11944,7 +11944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 321.31 111.76 0)
 			(effects
 				(font
@@ -12012,7 +12012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
 			(at 83.82 132.08 0)
 			(effects
 				(font
@@ -12080,7 +12080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 191.77 91.44 0)
 			(effects
 				(font
@@ -12479,7 +12479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.75u_With_Switch"
 			(at 40.64 91.44 0)
 			(effects
 				(font
@@ -12547,7 +12547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 213.36 111.76 0)
 			(effects
 				(font
@@ -12703,7 +12703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 132.08 0)
 			(effects
 				(font
@@ -12771,7 +12771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 191.77 71.12 0)
 			(effects
 				(font
@@ -13334,7 +13334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 299.72 50.8 0)
 			(effects
 				(font
@@ -13402,7 +13402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 213.36 71.12 0)
 			(effects
 				(font
@@ -13470,7 +13470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 105.41 111.76 0)
 			(effects
 				(font
@@ -13626,7 +13626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.50u_With_Switch"
 			(at 321.31 71.12 0)
 			(effects
 				(font
@@ -13694,7 +13694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 30.48 0)
 			(effects
 				(font
@@ -13762,7 +13762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 148.59 50.8 0)
 			(effects
 				(font
@@ -13830,7 +13830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 105.41 71.12 0)
 			(effects
 				(font
@@ -13986,7 +13986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 91.44 0)
 			(effects
 				(font
@@ -14054,7 +14054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -14474,7 +14474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 62.23 50.8 0)
 			(effects
 				(font
@@ -14542,7 +14542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 256.54 91.44 0)
 			(effects
 				(font
@@ -14610,7 +14610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 299.72 71.12 0)
 			(effects
 				(font
@@ -14678,7 +14678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 213.36 50.8 0)
 			(effects
 				(font
@@ -14746,7 +14746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 148.59 91.44 0)
 			(effects
 				(font
@@ -15166,7 +15166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 30.48 0)
 			(effects
 				(font
@@ -15388,7 +15388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 170.18 111.76 0)
 			(effects
 				(font
@@ -15456,7 +15456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 191.77 30.48 0)
 			(effects
 				(font
@@ -15524,7 +15524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 299.72 30.48 0)
 			(effects
 				(font
@@ -15594,7 +15594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:RaspberryPi_Pico_Common_Unspecified"
+		(property "Footprint" "ScottoKeebs_MCU:Raspberry_Pi_Pico"
 			(at 85.09 279.4 0)
 			(effects
 				(font
@@ -16174,7 +16174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 91.44 0)
 			(effects
 				(font
@@ -16418,7 +16418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.25u_With_Switch"
 			(at 40.64 132.08 0)
 			(effects
 				(font
@@ -16750,7 +16750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 170.18 50.8 0)
 			(effects
 				(font
@@ -16818,7 +16818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.75u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.75u_With_Switch"
 			(at 299.72 111.76 0)
 			(effects
 				(font
@@ -16974,7 +16974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -17130,7 +17130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 148.59 71.12 0)
 			(effects
 				(font
@@ -17198,7 +17198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -17266,7 +17266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 213.36 30.48 0)
 			(effects
 				(font
@@ -17334,7 +17334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 342.9 91.44 0)
 			(effects
 				(font
@@ -17578,7 +17578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 234.95 111.76 0)
 			(effects
 				(font
@@ -18086,7 +18086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 132.08 0)
 			(effects
 				(font
@@ -18418,7 +18418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 148.59 30.48 0)
 			(effects
 				(font
@@ -18574,7 +18574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.50u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.50u_With_Switch"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -18730,7 +18730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 127 30.48 0)
 			(effects
 				(font
@@ -19062,7 +19062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 111.76 0)
 			(effects
 				(font
@@ -19130,7 +19130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 342.9 132.08 0)
 			(effects
 				(font
@@ -19198,7 +19198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 40.64 30.48 0)
 			(effects
 				(font
@@ -19442,7 +19442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 278.13 71.12 0)
 			(effects
 				(font
@@ -19510,7 +19510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 191.77 50.8 0)
 			(effects
 				(font
@@ -19666,7 +19666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
+		(property "Footprint" "CF_Switch_MX_Hotswap:SW_Hotswap_Kailh_MX_Plated_1.00u_With_Switch"
 			(at 321.31 132.08 0)
 			(effects
 				(font
