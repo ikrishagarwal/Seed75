@@ -6,16 +6,16 @@ Orpheus Pico                                              , 1               ,   
 Gateron Hotswap Sockets                                   , 90 Pack         ,      10.00, https://stackskb.com/store/gateron-hotswap-sockets/
 Durock v2 Stabilizers Set                                 , 1               ,      17.98, https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U
 Keycap Set                                                , 1               ,      22.21, https://curiositycaps.in/products/camp-picnic-xvx-p-profile-dye-sub-doubleshot-combination-keycap
-M3x12 Hex CSK Screws                                      , 6x2             ,       0.6 , https://onlyscrews.in/products/hex-allen-csk-m3-x-20-screw-pack-of-20
-M3x6 Hex CSK Screws                                       , 4x2             ,       0.2 , https://onlyscrews.in/products/hex-allen-csk-m3-x-6-screw-pack-of-20
-M3 X 3mm Brass Threaded Inserts                           , 10x2            ,       0.6 , https://onlyscrews.in/products/m3-x-3mm-brass-threaded-inserts
+M3x20 Hex CSK Screws                                      , 6x2             ,       0.20, https://omrook.com/ss-allen-csk-m3-x-20mm-dia-3mm-length-20mm-stainless-steel-ss202-allen-socket-countersunk-screws/
+M3x6 Hex CSK Screws                                       , 4x2             ,       0.05, https://omrook.com/ss-allen-csk-m3-x-6mm-dia-3mm-length-6mm-stainless-steel-ss202-allen-socket-countersunk-screws/
+M3 X 3mm Brass Threaded Inserts                           , 10x2            ,       0.83, https://omrook.com/m3-x-4-brass-threaded-inserts-nut-50pc/
 "Bottom Case, Top Case, Plate, Knob, Elevator, Wrist Rest", 1               ,           , (3D Printed)
 PCB                                                       , 1               ,      56.87, https://www.pcbpower.com/
-                                                          , Components Total,     143.81,
-Shipping:                                                 , OnlyScrews      ,       0.68,
-                                                          , Stackskb        ,       0   ,
-                                                          , FlyRobo         ,       0.67,
-                                                          , Curiosity Caps  ,       0   ,
-                                                          , PCB Power       ,       0   ,
-                                                          , Shipping Total: ,       1.35,
-                                                          , Total:          ,     145.16,
+                                                          , Components Total,     143.49, 
+Shipping:                                                 , OmRook          ,       1.11, 
+                                                          , Stackskb        ,       0   , 
+                                                          , FlyRobo         ,       0.67, 
+                                                          , Curiosity Caps  ,       0   , 
+                                                          , PCB Power       ,       0   , 
+                                                          , Shipping Total: ,       1.35, 
+                                                          , Total:          ,     146.62, 
